@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Spring MVC ORM**
 
-- 📝 I regularly write articles on [https://medium.com/@ayhanhasancan55](https://medium.com/@ayhanhasancan55)
+- 📝 I write sometimes articles on [https://medium.com/@ayhanhasancan55](https://medium.com/@ayhanhasancan55)
 
 - 💬 Ask me about **Java Spring Framework**
 
